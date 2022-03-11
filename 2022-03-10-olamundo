@@ -1,5 +1,3 @@
-
-	
 	funcao inicio()
 	{
 		escreva("Hello World")
