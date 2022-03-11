@@ -1,0 +1,10 @@
+
+	
+	funcao inicio()
+	{
+		escreva("Hello World")
+		escreva("\n Se essa rua, se essa rua fosse minha")
+		escreva("\n Pensem nas crianças mudas, telepáticas")
+		
+		
+	}
